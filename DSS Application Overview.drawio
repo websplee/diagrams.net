@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T18:00:18.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="j7EPD0IAK6vZtdHrv9nc" version="13.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T18:01:44.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4yEoosRP9Jchdr6K7UjZ" version="13.7.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,8 @@
         <mxCell id="RbDXhoffKaR_s0q5_s7m-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="RbDXhoffKaR_s0q5_s7m-6" target="RbDXhoffKaR_s0q5_s7m-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="590" />
+              <mxPoint x="60" y="830" />
+              <mxPoint x="60" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -100,6 +101,12 @@
         </mxCell>
         <mxCell id="RbDXhoffKaR_s0q5_s7m-27" value="External System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="645" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RbDXhoffKaR_s0q5_s7m-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;" edge="1" parent="1" source="RbDXhoffKaR_s0q5_s7m-29" target="RbDXhoffKaR_s0q5_s7m-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbDXhoffKaR_s0q5_s7m-29" value="Sandbox" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
