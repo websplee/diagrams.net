@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T06:09:57.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="XVPCxGJrWLxOpUEJUSFS" type="github"><diagram id="fzUnX2EcUSsz-CAG50M2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T06:28:59.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="LntfNCfDk9KEVZeBWpak" type="github">
+  <diagram id="t1CKLeSkXWvefDtWCQHx" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-1" value="ZISPIS" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-2" value="Geolocation Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxHh-ae2dy0UMdYVZYS0-1">
+          <mxGeometry x="50" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-3" value="Payment Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxHh-ae2dy0UMdYVZYS0-1">
+          <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-4" value="THE SOLUTION" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-5" value="Notification Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxHh-ae2dy0UMdYVZYS0-4">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-6" value="Payment Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxHh-ae2dy0UMdYVZYS0-4">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-7" value="Payment Providers Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="hxHh-ae2dy0UMdYVZYS0-4">
+          <mxGeometry x="210" y="250" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-8" value="Authentication Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hxHh-ae2dy0UMdYVZYS0-4">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hxHh-ae2dy0UMdYVZYS0-10" value="Web Admin &amp;amp; Reports" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/CustomDomain.svg;" vertex="1" parent="hxHh-ae2dy0UMdYVZYS0-4">
+          <mxGeometry x="70.24000000000001" y="280" width="59.52" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
