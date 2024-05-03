@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T08:00:36.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2b-l3Eq2G7pKKQ2HHi2E" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T08:25:21.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HEIzoHsTU_uHETjlZ_OW" version="24.3.1" type="github">
   <diagram id="YVItvxm0SoohdGUPpqCv" name="Page-1">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-58" value="&lt;b&gt;ZRA Environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#67AB9F;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="560" y="995" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-56" value="&lt;b&gt;CA Environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#2330e1;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="220" y="995" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-55" value="&lt;b&gt;Client Environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="70" y="995" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-54" value="&lt;b&gt;Client Environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="55" y="670" width="475" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="7LTAagPrUlFVR8wyAlqN-36" value="&lt;b&gt;Zambia Breweries&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="80" y="70" width="360" height="207" as="geometry" />
         </mxCell>
@@ -70,7 +82,7 @@
         <mxCell id="Z5rnWxjmFexXJc9d3MaZ-1" value="&lt;b&gt;Client Environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="62" y="396.5" width="200" height="183.5" as="geometry" />
         </mxCell>
-        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-2" value="&lt;b&gt;ZRA Smart Invoice&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-2" value="&lt;b&gt;ZRA Smart Invoice&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#82b366;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="310" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Z5rnWxjmFexXJc9d3MaZ-4" value="VSDC Library" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="1">
@@ -141,6 +153,99 @@
         </mxCell>
         <mxCell id="Z5rnWxjmFexXJc9d3MaZ-25" value="Response (Error)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="473" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="690" width="620" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-59" value="&lt;b&gt;ZRA Environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#67AB9F;strokeWidth=2;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="480" y="-20" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-28" value="Client Invoicing System" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#C4C4C4;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-29" value="&lt;b&gt;cInvoice API Service&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;glass=1;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="150" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;glass=1;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="340" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-34" value="VSDC Library" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="374.8" y="70" width="50.4" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-35" value="ZRA Smart Invoice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;strokeWidth=2;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="490" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-36" value="" style="group" vertex="1" connectable="0" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="202" y="35" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-36">
+          <mxGeometry width="43.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-36">
+          <mxGeometry x="0.3299999999999841" y="87" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-32" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeWidth=1;dashed=1;" edge="1" parent="Z5rnWxjmFexXJc9d3MaZ-36" source="Z5rnWxjmFexXJc9d3MaZ-30">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="10" y="227" as="sourcePoint" />
+            <mxPoint x="32" y="109" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="97" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-37" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="460" y="87.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-38" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="310" y="87.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-39" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-40">
+          <mxGeometry x="120" y="87.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="1010" width="610" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-42" value="Client Invoicing System" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#C4C4C4;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-43" value="&lt;b&gt;cInvoice API Service&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;glass=1;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="150" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;glass=1;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="340" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-45" value="VSDC Library" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="374.8" y="70" width="50.4" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-46" value="ZRA Smart Invoice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=1;strokeWidth=2;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="490" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-47" value="" style="group" vertex="1" connectable="0" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="202" y="35" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-48" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-47">
+          <mxGeometry width="43.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-49" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-47">
+          <mxGeometry x="0.3299999999999841" y="87" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-50" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeWidth=1;dashed=1;" edge="1" parent="Z5rnWxjmFexXJc9d3MaZ-47" source="Z5rnWxjmFexXJc9d3MaZ-48">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="10" y="227" as="sourcePoint" />
+            <mxPoint x="32" y="109" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="97" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-51" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="460" y="87.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-52" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="310" y="87.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-53" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="Z5rnWxjmFexXJc9d3MaZ-41">
+          <mxGeometry x="120" y="87.5" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
