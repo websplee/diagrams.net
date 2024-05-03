@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T07:54:12.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qpIvsCSxfdk94ixDGpB4" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T08:00:36.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2b-l3Eq2G7pKKQ2HHi2E" version="24.3.1" type="github">
   <diagram id="YVItvxm0SoohdGUPpqCv" name="Page-1">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,14 +70,11 @@
         <mxCell id="Z5rnWxjmFexXJc9d3MaZ-1" value="&lt;b&gt;Client Environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="62" y="396.5" width="200" height="183.5" as="geometry" />
         </mxCell>
-        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-2" value="&lt;b&gt;Smart Invoice&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="360" height="260" as="geometry" />
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-2" value="&lt;b&gt;ZRA Smart Invoice&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#966B42;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="310" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Z5rnWxjmFexXJc9d3MaZ-4" value="VSDC Library" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="1">
           <mxGeometry x="120" y="431.5" width="84" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-5" value="Internet" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="450.5" width="108.08" height="99.5" as="geometry" />
         </mxCell>
         <mxCell id="Z5rnWxjmFexXJc9d3MaZ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="550" width="40" height="40" as="geometry" />
@@ -97,9 +94,10 @@
         <mxCell id="Z5rnWxjmFexXJc9d3MaZ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.821;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="Z5rnWxjmFexXJc9d3MaZ-4" target="Z5rnWxjmFexXJc9d3MaZ-7">
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.786;exitY=0.165;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" edge="1" parent="1" source="Z5rnWxjmFexXJc9d3MaZ-4" target="Z5rnWxjmFexXJc9d3MaZ-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="207" y="448" />
               <mxPoint x="207" y="430" />
             </Array>
           </mxGeometry>
@@ -109,11 +107,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.024;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Z5rnWxjmFexXJc9d3MaZ-7" target="Z5rnWxjmFexXJc9d3MaZ-4">
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Z5rnWxjmFexXJc9d3MaZ-7">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="470" />
               <mxPoint x="224" y="470" />
+              <mxPoint x="224" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -129,6 +129,18 @@
           <mxGeometry x="-0.0769" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-20" value="Verification of user and equipment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="415" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-21" value="Verification of parameters" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="485" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-22" value="Response of Results" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="555" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5rnWxjmFexXJc9d3MaZ-25" value="Response (Error)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="473" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
